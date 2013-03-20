@@ -21,8 +21,6 @@ Megumi's Scheme
 #AD7C2F - light brown 
 #AAFFEE - light cyan 
 
-wood texture credit: http://www.flickr.com/photos/bittbox
-
 */
 /* light blue *//* light brown */
 /* green *//* light cyan */body {
@@ -53,6 +51,7 @@ h6 {
   border-radius: 6px;
 }
 .navbar-inner {
+  /* wood texture credit: http://www.flickr.com/photos/bittbox */
   background-image: url("../img/wood_vert.jpg") !important;
   background-color: #ad7c2f !important;
 }
